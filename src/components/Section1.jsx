@@ -60,6 +60,7 @@ export const Section1 = () => {
               <Section1CatIcon />
               <Section1TwitterIcon />
               <Section1FigmaIcon />
+              <div>hi</div>
             </div>
           </div>
         </div>
